@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "arch",
+			"description": "Arch Linux based repositories",
+			"domain_files": ["arch.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
@@ -24,6 +29,11 @@
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
 			"domain_files": ["daybreak.txt"]
+		},
+		{
+			"name": "debian",
+			"description": "Debian based repositories",
+			"domain_files": ["debian.txt"]
 		},
 		{
 			"name": "epicgames",
@@ -121,6 +131,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "docker",
+			"description": "CDN for docker images and packages",
+			"domain_files": ["docker.txt"]
 		}
 	]
 }
