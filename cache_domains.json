@@ -136,6 +136,11 @@
 			"name": "docker",
 			"description": "CDN for docker images and packages",
 			"domain_files": ["docker.txt"]
+		},
+		{
+			"name": "proxmox",
+			"description": "CDN for proxmox packages",
+			"domain_files": ["proxmox.txt"]
 		}
 	]
 }
