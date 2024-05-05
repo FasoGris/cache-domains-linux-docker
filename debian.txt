@@ -9,3 +9,4 @@ ppa.launchpad.net
 fr.archive.ubuntu.com
 security.ubuntu.com
 ftp.fr.debian.org
+archive.raspberrypi.com
